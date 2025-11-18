@@ -1,7 +1,6 @@
 # 🏙 Tokyo Dark
 
 <!-- Plugin description -->
-
 A dark Jetbrains theme ported from the Visual Studio Code
 [TokyoNight](https://github.com/enkia/tokyo-night-vscode-theme) theme.
 
